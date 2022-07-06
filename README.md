@@ -1,4 +1,4 @@
-#This project is a simple recipe site, in this project we will practice some concepts of HTML such as:
+# This project is a simple recipe site, in this project we will practice some concepts of HTML such as:
 
 	- Creating a functional public facing HTML site
 		- Anchor Tags
